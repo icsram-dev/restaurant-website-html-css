@@ -14,6 +14,4 @@ Funkciók:
 
 - Szociális média ikonjai: Facebook, Instagram, Twitter, YouTube és Pinterest ikonjai a weboldalon.
 
-HTML
-CSS
-Reszponzív design
+HTML, CSS, Reszponzív design
